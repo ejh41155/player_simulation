@@ -11,7 +11,7 @@ int main()
         
         Hashmap H; 
 
-        Player p1(101, "EthanJamesHoward", "Football", "WR", 20, 99, 1, 15000000, 5);
+        Player p1(101, "EthanJamesHoward12345", "Football", "WR", 20, 99, 1, 15000000, 5);
         Player p2(102, "James", "Basketball", "PG", 25, 92, 6, 45000000, 4);
 
         H.insert(p1.getID(), p1);
