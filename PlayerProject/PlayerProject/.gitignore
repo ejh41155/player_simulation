@@ -1,0 +1,47 @@
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore build output
+Debug/
+Release/
+x64/
+x86/
+
+# Ignore Visual Studio cache and database files
+*.VC.db
+*.VC.opendb
+
+# Ignore user-specific project files
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore temporary files
+*.log
+*.tlog
+*.obj
+*.pch
+
+# Ignore binary outputs
+*.exe
+*.dll
+*.lib
+*.pdb
+
+# Ignore backup files
+*.bak
+
+# Ignore generated code or intermediate files
+ipch/
+*.ipch
+*.cache
+*.tmp
+
+# Ignore CMake build folder if created
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+

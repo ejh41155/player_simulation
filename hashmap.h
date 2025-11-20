@@ -21,7 +21,6 @@ public:
 	int hashFunction(int key);
 	void insert(int key, Player& player);
 	void remove(int key);
-	Player& search(string value);
 	void print();
 };
 

@@ -126,6 +126,9 @@
     <ClCompile Include="..\..\ConsoleApplication1.cpp" />
     <ClCompile Include="..\..\hashmap.cpp" />
     <ClCompile Include="..\..\main.cpp" />
+    <ClCompile Include="playerClass.cpp">
+      <DeploymentContent>true</DeploymentContent>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\functions.h" />

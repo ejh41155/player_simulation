@@ -1,0 +1,8 @@
+#ifndef PLAYERCLASS_H
+#define PLAYERCLASS_H
+
+
+
+
+
+#endif PLAYERCLASS_H
